@@ -1,3 +1,3 @@
 # kcoder.io
 
-This repo is Follow official website source code.
+This repo is Kcoder official website source code.
